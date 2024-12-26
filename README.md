@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vikash-kumar-b42052329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-kumar-b42052329" height="30" width="40" /></a>
 <a href="https://instagram.com/vikashintech.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashintech.py" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vikashkelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vikashkelly" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vikashkelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikashkelly" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fxmgtq2twp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fxmgtq2twp" height="30" width="40" /></a>
 </p>
 
