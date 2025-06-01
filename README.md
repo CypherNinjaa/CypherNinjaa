@@ -1,33 +1,127 @@
-  <h1 align="center">Hi 👋, I'm ❤️√͢ᴋᏉᎥҞครh</h1
-<h3 align="center">A passionate Multinet developer from India</h3>
+<div align="center">
+  
+  <!-- Dynamic Terminal Header with Animation -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=70&lines=SYSTEM+BREACH+DETECTED;ACCESSING+MAINFRAME...;IDENTITY+CONFIRMED%3A+%E2%9D%A4%EF%B8%8F%E2%88%9A%CD%A2%E1%B4%8B%E1%8F%89%E1%8E%A5%E0%B8%84%E0%B8%A3h;NEURAL+LINK+ESTABLISHED)](https://github.com/CypherNinjaa)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cypherninjaa&label=Profile%20views&color=0e75b6&style=flat" alt="cypherninjaa" /> </p>
+  <!-- Cyberpunk Badge & Counter -->
+  <a href="#"><img src="https://img.shields.io/badge/SYSTEM_TIME-2025--06--01_17:58:42-0000FF?style=for-the-badge&labelColor=black&logo=clockify&logoColor=white" alt="System Time"></a>
+  <a href="#"><img src="https://img.shields.io/badge/USER-CypherNinjaa-FF0000?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="User"></a>
+  <img src="https://komarev.com/ghpvc/?username=cypherninjaa&label=NEURAL+INTERFACES&color=00FF00&style=for-the-badge&labelColor=black" alt="profile views">
+  
+  <!-- Matrix-Style ASCII Art -->
+  <pre>
+  <code style="color:#00FF00">
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                                                                  ║
+  ║  01001000 01101001 00101100 00100000 01001001 00100111 01101101 ║
+  ║  00100000 01010110 01101001 01101011 01100001 01110011 01101000 ║
+  ║                                                                  ║
+  ║         [MULTINET DEVELOPER] [CYBER SECURITY SPECIALIST]         ║
+  ║                                                                  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+  </code>
+  </pre>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cypherninjaa" alt="cypherninjaa" /></a> </p>
+  <!-- Holographic Stats Display -->
+  <a href="https://github.com/CypherNinjaa">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cypherninjaa&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&ring_color=00FF00&icon_color=FF0000&title_color=0000FF&text_color=FFFF00" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cypherninjaa&theme=black-ice&hide_border=true&background=0D1117&stroke=0000FF&ring=FF0000&fire=FFFF00&currStreakLabel=00FFFF&sideLabels=FF00FF&dates=FFFFFF" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Neural Network Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
 
-- 🌱 I’m currently learning **C**
+<!-- System Information Display -->
+<div align="center">
+  
+```diff
++ SYSTEM STATUS: ONLINE
+- ACCESS LEVEL: ENCRYPTED
+! LOCATION: INDIA
+@@ CURRENT MISSION: Web Dev @@
+```
 
-- 💬 Ask me about **C programming**
+</div>
 
-- 📫 How to reach me **vikashkelly@gmail.com**
+<!-- Tech Matrix Display -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,androidstudio,git,github,vscode,linux&perline=6&theme=dark" alt="Tech Skills" />
+  <br><br>
+  
+  <!-- Terminal Access Section -->
+  <table width="100%" border="0" style="border:none;">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherninjaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=00FFFF" alt="Most Used Languages" />
+      </td>
+      <td width="50%" align="center">
+        <div align="center">
+          <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=cypherninjaa&theme=darkhub&no-frame=true&no-bg=true&column=3&row=2" alt="Trophy Stats" width="100%" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- ⚡ Fun fact **I think...**
+<!-- Digital Identity Access Points -->
+<details>
+<summary><h2>⚡ SECURE COMMUNICATION CHANNELS</h2></summary>
+<div align="center">
+  
+| CHANNEL | ACCESS POINT |
+|---------|--------------|
+| <img align="center" src="https://img.shields.io/badge/EMAIL-vikashkelly@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" /> | <a href="mailto:vikashkelly@gmail.com">ESTABLISH CONTACT</a> |
+| <img align="center" src="https://img.shields.io/badge/LINKEDIN-Vikash_Kumar-0000FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" /> | <a href="https://linkedin.com/in/vikash-kumar-b42052329">ACCESS PROFILE</a> |
+| <img align="center" src="https://img.shields.io/badge/INSTAGRAM-vikashintech.py-FF00FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" /> | <a href="https://instagram.com/vikashintech.py">VIEW FEED</a> |
+| <img align="center" src="https://img.shields.io/badge/HACKERRANK-vikashkelly-00FF00?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=black" /> | <a href="https://www.hackerrank.com/vikashkelly">CHECK RANK</a> |
+| <img align="center" src="https://img.shields.io/badge/LEETCODE-fxmgtq2twp-FFFF00?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=white" /> | <a href="https://www.leetcode.com/fxmgtq2twp">VIEW SOLUTIONS</a> |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vikash-kumar-b42052329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-kumar-b42052329" height="30" width="40" /></a>
-<a href="https://instagram.com/vikashintech.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashintech.py" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vikashkelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikashkelly" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fxmgtq2twp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fxmgtq2twp" height="30" width="40" /></a>
-</p>
+</div>
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<!-- Personal System Details -->
+<details>
+<summary><h2>🔮 SYSTEM SPECIFICATIONS</h2></summary>
+<div align="center">
+  
+```
+╔═══════════════════════════ SYSTEM INFORMATION ════════════════════════════╗
+║                                                                           ║
+║  CODENAME: ❤️√͢ᴋᏉᎥҞครh                                                    ║
+║  SPECIALTY: Multinet Development & C Programming                          ║
+║  STATUS: Currently enhancing system knowledge of C language               ║
+║  LOCATION: India                                                          ║
+║                                                                           ║
+║  > Passionate about system-level programming                              ║
+║  > Skilled in building robust network applications                        ║
+║  > Constantly evolving and learning new technologies                      ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cypherninjaa&show_icons=true&locale=en&layout=compact" alt="cypherninjaa" /></p>
+</div>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypherninjaa&show_icons=true&locale=en" alt="cypherninjaa" /></p>
+<!-- Biohacking Animation -->
+<div align="center">
+  
+  ![Hacking Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  
+  <a href="#top">
+    <img src="https://img.shields.io/badge/RETURN_TO_TOP-0000FF?style=for-the-badge&labelColor=black" alt="Return to Top">
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypherninjaa&" alt="cypherninjaa" /></p>
+<!-- Secret Message Hidden at Bottom -->
+<div align="center">
+  <sub>
+    <sup>
+      01010111 01100101 01101100 01100011 01101111 01101101 01100101 00100000 01110100 01101111 00100000 01101101 01111001 00100000 01100100 01101001 01100111 01101001 01110100 01100001 01101100 00100000 01110010 01100101 01100001 01101100 01101101
+    </sup>
+  </sub>
+</div>
