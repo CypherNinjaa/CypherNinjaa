@@ -13,10 +13,10 @@
   <code style="color:#00FF00">
   ╔══════════════════════════════════════════════════════════════════╗
   ║                                                                  ║
-  ║  01001000 01101001 00101100 00100000 01001001 00100111 01101101 ║
-  ║  00100000 01010110 01101001 01101011 01100001 01110011 01101000 ║
+  ║  01001000 01101001 00101100 00100000 01001001 00100111 01101101  ║
+  ║  00100000 01010110 01101001 01101011 01100001 01110011 01101000  ║
   ║                                                                  ║
-  ║         [MULTINET DEVELOPER] [CYBER SECURITY SPECIALIST]         ║
+  ║         [MULTINET DEVELOPER] [WEB-DEV]                           ║
   ║                                                                  ║
   ╚══════════════════════════════════════════════════════════════════╝
   </code>
@@ -93,8 +93,8 @@
 ╔═══════════════════════════ SYSTEM INFORMATION ════════════════════════════╗
 ║                                                                           ║
 ║  CODENAME: ❤️√͢ᴋᏉᎥҞครh                                                    ║
-║  SPECIALTY: Multinet Development & C Programming                          ║
-║  STATUS: Currently enhancing system knowledge of C language               ║
+║  SPECIALTY: Multinet Development                                          ║
+║  STATUS: Currently enhancing WEB-DEV                                      ║
 ║  LOCATION: India                                                          ║
 ║                                                                           ║
 ║  > Passionate about system-level programming                              ║
