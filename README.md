@@ -91,10 +91,10 @@ const vikashin = {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=5a7fa8)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5a7fa8)](https://linkedin.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=5a7fa8)](https://twitter.com/vikashintech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5a7fa8)](https://linkedin.com/vikashintech)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=5a7fa8)](https://github.com/CypherNinjaa)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=5a7fa8)](mailto:vikashintech@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=5a7fa8)](mailto:vikashkelly@gmail.com)
 
 </div>
 
