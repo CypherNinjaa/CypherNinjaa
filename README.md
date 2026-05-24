@@ -1,127 +1,106 @@
+<!-- Header Banner -->
 <div align="center">
-  
-  <!-- Dynamic Terminal Header with Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=70&lines=SYSTEM+BREACH+DETECTED;ACCESSING+MAINFRAME...;IDENTITY+CONFIRMED%3A+%E2%9D%A4%EF%B8%8F%E2%88%9A%CD%A2%E1%B4%8B%E1%8F%89%E1%8E%A5%E0%B8%84%E0%B8%A3h;NEURAL+LINK+ESTABLISHED)](https://github.com/CypherNinjaa)
-
-  <!-- Cyberpunk Badge & Counter -->
-  <a href="#"><img src="https://img.shields.io/badge/SYSTEM_TIME-2025--06--01_17:58:42-0000FF?style=for-the-badge&labelColor=black&logo=clockify&logoColor=white" alt="System Time"></a>
-  <a href="#"><img src="https://img.shields.io/badge/USER-CypherNinjaa-FF0000?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="User"></a>
-  <img src="https://komarev.com/ghpvc/?username=cypherninjaa&label=NEURAL+INTERFACES&color=00FF00&style=for-the-badge&labelColor=black" alt="profile views">
-  
-  <!-- Matrix-Style ASCII Art -->
-  <pre>
-  <code style="color:#00FF00">
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                                                                  ║
-  ║  01001000 01101001 00101100 00100000 01001001 00100111 01101101  ║
-  ║  00100000 01010110 01101001 01101011 01100001 01110011 01101000  ║
-  ║                                                                  ║
-  ║         [MULTINET DEVELOPER] [WEB-DEV]                           ║
-  ║                                                                  ║
-  ╚══════════════════════════════════════════════════════════════════╝
-  </code>
-  </pre>
-
-  <!-- Holographic Stats Display -->
-  <a href="https://github.com/CypherNinjaa">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cypherninjaa&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&ring_color=00FF00&icon_color=FF0000&title_color=0000FF&text_color=FFFF00" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cypherninjaa&theme=black-ice&hide_border=true&background=0D1117&stroke=0000FF&ring=FF0000&fire=FFFF00&currStreakLabel=00FFFF&sideLabels=FF00FF&dates=FFFFFF" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0f1e,001a2e,0d1b2a&height=220&text=CypherNinjaa&fontColor=FFFFFF&fontSize=68&fontAlignY=42&desc=vikashintech%20·%20Full%20Stack%20Developer&descColor=5a7fa8&descSize=16&descAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-<!-- Neural Network Animation -->
+<!-- Typing SVG -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=5a7fa8&center=true&vCenter=true&width=600&height=50&lines=Where+dreams+rise+through+the+silence.;Building+things+that+matter.;Code+%7C+Design+%7C+Ship.;Deep+thinker.+Quiet+rebel." alt="Typing SVG" />
 </div>
 
-<!-- System Information Display -->
+<br/>
+
+<!-- Visitor badge -->
 <div align="center">
-  
-```diff
-+ SYSTEM STATUS: ONLINE
-- ACCESS LEVEL: ENCRYPTED
-! LOCATION: INDIA
-@@ CURRENT MISSION: Web Dev @@
+  <img src="https://komarev.com/ghpvc/?username=CypherNinjaa&label=Profile+Views&color=0d1b2a&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/CypherNinjaa?label=Followers&style=flat-square&color=0d1b2a&labelColor=001a2e" />
+</div>
+
+---
+
+## `whoami`
+
+```ts
+const vikashin = {
+  name     : "Vikashin",
+  alias    : "CypherNinjaa",
+  role     : "Full Stack Developer",
+  location : "India 🇮🇳",
+  focus    : ["Web Apps", "UI/UX", "Clean Architecture"],
+  building : "Tools for deep thinkers & bold creators",
+  mantra   : "Ship with intention. Design with soul.",
+};
 ```
 
+---
+
+## `tech.stack()`
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark" />
+
+**Backend & DevOps**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,linux&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,github,firebase&theme=dark" />
+
 </div>
 
-<!-- Tech Matrix Display -->
+---
+
+## `git.stats()`
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,androidstudio,git,github,vscode,linux&perline=6&theme=dark" alt="Tech Skills" />
-  <br><br>
-  
-  <!-- Terminal Access Section -->
-  <table width="100%" border="0" style="border:none;">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypherninjaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=00FFFF" alt="Most Used Languages" />
-      </td>
-      <td width="50%" align="center">
-        <div align="center">
-          <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=cypherninjaa&theme=darkhub&no-frame=true&no-bg=true&column=3&row=2" alt="Trophy Stats" width="100%" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=CypherNinjaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5a7fa8&text_color=8b949e&icon_color=3a6b9a&rank_icon=github&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherNinjaa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5a7fa8&text_color=8b949e&langs_count=6" height="165" />
 </div>
 
-<!-- Digital Identity Access Points -->
-<details>
-<summary><h2>⚡ SECURE COMMUNICATION CHANNELS</h2></summary>
 <div align="center">
-  
-| CHANNEL | ACCESS POINT |
-|---------|--------------|
-| <img align="center" src="https://img.shields.io/badge/EMAIL-vikashkelly@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" /> | <a href="mailto:vikashkelly@gmail.com">ESTABLISH CONTACT</a> |
-| <img align="center" src="https://img.shields.io/badge/LINKEDIN-Vikash_Kumar-0000FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" /> | <a href="https://linkedin.com/in/vikash-kumar-b42052329">ACCESS PROFILE</a> |
-| <img align="center" src="https://img.shields.io/badge/INSTAGRAM-vikashintech.py-FF00FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" /> | <a href="https://instagram.com/vikashintech.py">VIEW FEED</a> |
-| <img align="center" src="https://img.shields.io/badge/HACKERRANK-vikashkelly-00FF00?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=black" /> | <a href="https://www.hackerrank.com/vikashkelly">CHECK RANK</a> |
-| <img align="center" src="https://img.shields.io/badge/LEETCODE-fxmgtq2twp-FFFF00?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=white" /> | <a href="https://www.leetcode.com/fxmgtq2twp">VIEW SOLUTIONS</a> |
-
-</div>
-</details>
-
-<!-- Personal System Details -->
-<details>
-<summary><h2>🔮 SYSTEM SPECIFICATIONS</h2></summary>
-<div align="center">
-  
-```
-╔═══════════════════════════ SYSTEM INFORMATION ════════════════════════════╗
-║                                                                           ║
-║  CODENAME: ❤️√͢ᴋᏉᎥҞครh                                                    ║
-║  SPECIALTY: Multinet Development                                          ║
-║  STATUS: Currently enhancing WEB-DEV                                      ║
-║  LOCATION: India                                                          ║
-║                                                                           ║
-║  > Passionate about system-level programming                              ║
-║  > Skilled in building robust network applications                        ║
-║  > Constantly evolving and learning new technologies                      ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-</details>
-
-<!-- Biohacking Animation -->
-<div align="center">
-  
-  ![Hacking Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-  
-  <a href="#top">
-    <img src="https://img.shields.io/badge/RETURN_TO_TOP-0000FF?style=for-the-badge&labelColor=black" alt="Return to Top">
-  </a>
+  <img src="https://streak-stats.demolab.com?user=CypherNinjaa&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3a6b9a&fire=5a7fa8&currStreakLabel=5a7fa8&sideLabels=5a7fa8" />
 </div>
 
-<!-- Secret Message Hidden at Bottom -->
+---
+
+## `trophies.unlock()`
+
 <div align="center">
-  <sub>
-    <sup>
-      01010111 01100101 01101100 01100011 01101111 01101101 01100101 00100000 01110100 01101111 00100000 01101101 01111001 00100000 01100100 01101001 01100111 01101001 01110100 01100001 01101100 00100000 01110010 01100101 01100001 01101100 01101101
-    </sup>
-  </sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=CypherNinjaa&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" />
+</div>
+
+---
+
+## `activity.log()`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherNinjaa&bg_color=0d1117&color=5a7fa8&line=3a5f7f&point=FFFFFF&area=true&area_color=0d1117&hide_border=true" width="100%" />
+</div>
+
+---
+
+## `reach.out()`
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=5a7fa8)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5a7fa8)](https://linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=5a7fa8)](https://github.com/CypherNinjaa)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=5a7fa8)](mailto:vikashintech@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0f1e,001a2e,0d1b2a&height=100&section=footer" width="100%" />
+  <sub><i>"Where dreams rise through the silence."</i></sub>
 </div>
