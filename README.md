@@ -61,8 +61,8 @@ const vikashin = {
 ## `git.stats()`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CypherNinjaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5a7fa8&text_color=8b949e&icon_color=3a6b9a&rank_icon=github&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherNinjaa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5a7fa8&text_color=8b949e&langs_count=6" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CypherNinjaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5a7fa8&text_color=8b949e&icon_color=3a6b9a&rank_icon=github&count_private=true" height="165" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherNinjaa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5a7fa8&text_color=8b949e&langs_count=6" height="165" /> -->
 </div>
 
 <div align="center">
