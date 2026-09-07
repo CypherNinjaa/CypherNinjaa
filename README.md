@@ -1,6 +1,10 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0f1e,001a2e,0d1b2a&height=220&text=CypherNinjaa&fontColor=FFFFFF&fontSize=68&fontAlignY=42&desc=vikashintech%20·%20Full%20Stack%20Developer&descColor=5a7fa8&descSize=16&descAlignY=65&animation=fadeIn" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="cypherninjaa's GitHub profile" src="dark_mode.svg" />
+</picture>
 </div>
 
 <!-- Typing SVG -->
